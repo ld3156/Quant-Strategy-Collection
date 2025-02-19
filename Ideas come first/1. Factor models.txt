@@ -1,0 +1,9 @@
+When I think of factors, FF 5 factor model is a great start!
+What can be added and are they really needed?
+Lets try!
+
+1. What do we have after deleting 5 factors and Momentum factor?
+2. Is the residual low enough?
+3. What about other fundamental features? Do they create systematic factors?
+4. What does BARRA do?
+5. Afterall, we can use it to get the covariance estimates.
